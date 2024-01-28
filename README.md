@@ -1,0 +1,1 @@
+# wayfast-object-detection
